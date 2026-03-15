@@ -9,3 +9,5 @@ Features:
 - Detect temperature excursions
 - Show Stability Status (🟢 Safe / 🟡 Warning / 🔴 Compromised)
 - Download Stability Report
+Copyright © 2026 Gunn Chaurasiya
+All rights reserved.
